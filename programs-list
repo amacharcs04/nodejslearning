@@ -6,3 +6,8 @@
 "main4.js", "using express' middleware func, and exposing folders"
 "filesys.js", "using fs module to delete a file"
 "sci.js", "creating router obj and defining it's routes"
+"connect-to-mongo.js","mongo db connection check"
+"mongoose1.js","create a model and save the model data into mongodb"
+"mongoose2.js","trying model cum save data with Kitten schema"
+"mongoose3.js","the new collection is created always with 's'"
+
