@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "app to learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amachar.aravindasamy@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.10.0"
+  }
+}
